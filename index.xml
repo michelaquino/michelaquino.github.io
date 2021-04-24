@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>/dev/null</title>
-    <link>http://example.org/</link>
+    <link>https://michelaquino.github.io/</link>
     <description>Recent content on /dev/null</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>pt-br</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <language>pt-br</language><atom:link href="https://michelaquino.github.io/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
