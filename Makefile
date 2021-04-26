@@ -2,4 +2,4 @@ run-local:
 	hugo server -D
 
 build:
-	hugo -D --destination ../
+	hugo -D --destination docs
