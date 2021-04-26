@@ -1,36 +1,21 @@
 baseURL = "https://michelaquino.github.io/"
 languageCode = "pt-br"
-title = "/dev/null"
-theme = "m10c"
+title = "Michel Aquino"
+author = "Michel Aquino"
+canonifyurls = true
+paginate = 3
 
-[menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
-    weight = 2
-  [[menu.main]]
-    identifier = "about"
-    name = "Sobre mim"
-    url = "/about/"
-    weight = 3
+googleAnalytics = ""
+disqusShortname = "spf13"
+
+theme = "hyde"
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/michelaquino"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/michel-aquino-415a4424/"},
+      {Name = "Quem sou eu", URL = "/about"}
+  ]
 
 [params]
-    author = "Michel Aquino"
-    description = "Let's talk about software development"
-    menu_item_separator = " - "
-    
-    [[params.social]]
-        icon = "github"
-        name = "My Github"
-        url = "https://github.com/michelaquino"
-
-    [[params.social]]
-        icon = "linkedin"
-        name = "LinkedIn"
-        url = "https://www.linkedin.com/in/michel-aquino-415a4424/"
+  description = "Software Development"
