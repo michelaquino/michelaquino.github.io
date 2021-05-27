@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Post on /dev/null</title>
+    <link>https://michelaquino.github.io/post/</link>
+    <description>Recent content in Post on /dev/null</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 15 Jul 2020 20:00:00 +0200</lastBuildDate><atom:link href="https://michelaquino.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quem sou eu</title>
+      <link>https://michelaquino.github.io/post/about/</link>
+      <pubDate>Wed, 15 Jul 2020 20:00:00 +0200</pubDate>
+      
+      <guid>https://michelaquino.github.io/post/about/</guid>
+      <description>Meu nome é Michel, sou engenheiro de software com aproximadamente 10 anos de experiência. Atualmente trabalho na Globo.com como engenheiro de software senior na plataforma de vídeos e streaming, na qual o Globoplay faz parte.</description>
+    </item>
+    
+  </channel>
+</rss>
