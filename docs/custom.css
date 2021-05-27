@@ -1,1 +1,18 @@
-/* You can add custom styles here. */
+.gblog-header {
+    background: black;
+    color: #00f900;
+}
+
+.gblog-button:hover {
+    background: #2f333e !important;
+    border-color: #2f333e !important;
+}
+
+.gblog-footer__link:hover {
+    background: #00f900;
+    color: #343a40 !important;
+}
+
+.gblog-footer__link:visited {
+    color: #00f900;
+}
