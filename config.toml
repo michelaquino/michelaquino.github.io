@@ -51,4 +51,4 @@ disablePathToLower = true
   description = "This is my personal blog about tech."
   keywords = []
   images = []
-  logo = ""
+  logo = "logo-green.svg"
