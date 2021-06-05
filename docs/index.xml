@@ -5,14 +5,24 @@
     <link>https://michelaquino.github.io/</link>
     <description>Recent content on /dev/null</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 15 Jul 2020 20:00:00 +0200</lastBuildDate><atom:link href="https://michelaquino.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Jun 2020 12:00:00 -0300</lastBuildDate><atom:link href="https://michelaquino.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Protocol Buffer x JSON para serialização de dados</title>
+      <link>https://michelaquino.github.io/post/json-protobuffer-comparison/</link>
+      <pubDate>Fri, 05 Jun 2020 12:00:00 -0300</pubDate>
+      
+      <guid>https://michelaquino.github.io/post/json-protobuffer-comparison/</guid>
+      <description>Atualmente o formato JSON é um dos formatos mais usados para serialização/deserialização de dados por ter suporte nativo na maioria dos navegadores, ser muito conhecido e ter uma grande variedade de bibliotecas nas mais diversas linguagens. Além disso, por ser em formato texto é legível para humanos.
+Porém, há alguns problemas: não faz distinção entre inteiro e float e não especifica precisão. Isso pode ser um problema quando se está lidando com números grandes.</description>
+    </item>
+    
     <item>
       <title>Quem sou eu</title>
       <link>https://michelaquino.github.io/post/about/</link>
-      <pubDate>Wed, 15 Jul 2020 20:00:00 +0200</pubDate>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0300</pubDate>
       
       <guid>https://michelaquino.github.io/post/about/</guid>
-      <description>Meu nome é Michel, sou engenheiro de software com aproximadamente 10 anos de experiência. Atualmente trabalho na Globo.com como engenheiro de software senior na plataforma de vídeos e streaming, na qual o Globoplay faz parte.</description>
+      <description>Meu nome é Michel Aquino, sou engenheiro de software com aproximadamente 10 anos de experiência. Atualmente trabalho na Globo.com como engenheiro de software sênior na plataforma de vídeos e streaming, na qual o Globoplay faz parte.</description>
     </item>
     
     <item>
@@ -21,7 +31,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://michelaquino.github.io/contact/</guid>
-      <description> E-Mail: michelaquino [ett] mailbox.org  </description>
+      <description> E-Mail: michelaquino [ett] mailbox.org LinkedIn: https://www.linkedin.com/in/michel-aquino-415a4424/  </description>
     </item>
     
   </channel>

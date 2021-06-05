@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Post on /dev/null</title>
-    <link>https://michelaquino.github.io/post/</link>
-    <description>Recent content in Post on /dev/null</description>
+    <title>Protocol Buffer on /dev/null</title>
+    <link>https://michelaquino.github.io/tags/Protocol-Buffer/</link>
+    <description>Recent content in Protocol Buffer on /dev/null</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 05 Jun 2020 12:00:00 -0300</lastBuildDate><atom:link href="https://michelaquino.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Jun 2020 12:00:00 -0300</lastBuildDate><atom:link href="https://michelaquino.github.io/tags/Protocol-Buffer/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Protocol Buffer x JSON para serialização de dados</title>
       <link>https://michelaquino.github.io/post/json-protobuffer-comparison/</link>
@@ -14,15 +14,6 @@
       <guid>https://michelaquino.github.io/post/json-protobuffer-comparison/</guid>
       <description>Atualmente o formato JSON é um dos formatos mais usados para serialização/deserialização de dados por ter suporte nativo na maioria dos navegadores, ser muito conhecido e ter uma grande variedade de bibliotecas nas mais diversas linguagens. Além disso, por ser em formato texto é legível para humanos.
 Porém, há alguns problemas: não faz distinção entre inteiro e float e não especifica precisão. Isso pode ser um problema quando se está lidando com números grandes.</description>
-    </item>
-    
-    <item>
-      <title>Quem sou eu</title>
-      <link>https://michelaquino.github.io/post/about/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0300</pubDate>
-      
-      <guid>https://michelaquino.github.io/post/about/</guid>
-      <description>Meu nome é Michel Aquino, sou engenheiro de software com aproximadamente 10 anos de experiência. Atualmente trabalho na Globo.com como engenheiro de software sênior na plataforma de vídeos e streaming, na qual o Globoplay faz parte.</description>
     </item>
     
   </channel>
