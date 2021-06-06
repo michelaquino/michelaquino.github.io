@@ -2,6 +2,7 @@
 baseURL = "https://michelaquino.github.io/"
 languageCode = "en"
 
+title = "Michel Aquino"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
@@ -18,11 +19,11 @@ paginate = 5
     author = "Michel Aquino"
     title = "Michel Aquino"
     description = "Michel Aquino"
-    authorimage = "/img/logo-gray.png"
+    #authorimage = "/img/logo-gray.png"
     dateformat = "Jan 2, 2006"
 
     # sidebar, copyright & license
-    #logoimage = "/img/logo-green.png"
+    logoimage = "/img/logo-gray.png"
     copyright = "michelaquino"
     since = 2021
     #license = "CC BY-SA 4.0"
