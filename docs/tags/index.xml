@@ -1,35 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on /dev/null</title>
+    <title>Tags on </title>
     <link>https://michelaquino.github.io/tags/</link>
-    <description>Recent content in Tags on /dev/null</description>
+    <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
     <lastBuildDate>Fri, 05 Jun 2020 12:00:00 -0300</lastBuildDate><atom:link href="https://michelaquino.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>JSON</title>
-      <link>https://michelaquino.github.io/tags/JSON/</link>
+      <link>https://michelaquino.github.io/tags/json/</link>
       <pubDate>Fri, 05 Jun 2020 12:00:00 -0300</pubDate>
       
-      <guid>https://michelaquino.github.io/tags/JSON/</guid>
+      <guid>https://michelaquino.github.io/tags/json/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Protocol Buffer</title>
-      <link>https://michelaquino.github.io/tags/Protocol-Buffer/</link>
+      <link>https://michelaquino.github.io/tags/protocol-buffer/</link>
       <pubDate>Fri, 05 Jun 2020 12:00:00 -0300</pubDate>
       
-      <guid>https://michelaquino.github.io/tags/Protocol-Buffer/</guid>
+      <guid>https://michelaquino.github.io/tags/protocol-buffer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://michelaquino.github.io/tags/About/</link>
+      <link>https://michelaquino.github.io/tags/about/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0300</pubDate>
       
-      <guid>https://michelaquino.github.io/tags/About/</guid>
+      <guid>https://michelaquino.github.io/tags/about/</guid>
       <description></description>
     </item>
     
