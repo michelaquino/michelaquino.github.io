@@ -1,54 +1,76 @@
+## Basic Configuration
 baseURL = "https://michelaquino.github.io/"
-title = "/dev/null"
-theme = "hugo-geekblog"
-author = "Michel Aquino"
+languageCode = "en"
+
+theme = "hyde-hyde"
+
+## Hugo Built-in Features
+# disqusShortname = "your-disqus-shortname"
+# googleAnalytics = "your-google-analytics-id"
+# enableRobotsTXT = true
+
+# summarylength = 30
 
 paginate = 5
 
-pluralizeListTitles = false
-
-# Geekblog required configuration
-pygmentsUseClasses = true
-pygmentsCodeFences = true
-disablePathToLower = true
-
-# Needed for mermaid shortcodes
-[markup]
-  [markup.goldmark.renderer]
-    unsafe = true
-  [markup.tableOfContents]
-    startLevel = 1
-    endLevel = 9
-
-[taxonomies]
-  author = "authors"
-  tag = "tags"
-
-[mediaTypes]
-  [mediaTypes."application/atom+xml"]
-    suffixes = ["xml"]
-
-[outputFormats]
-  [outputFormats.Atom]
-    name = "Atom"
-    mediaType = "application/atom+xml"
-    baseName = "atom"
-    isPlainText = false
-    rel = "alternate"
-    isHTML = false
-    noUgly = true
-    permalinkable = false
-
-[outputFormats.outputs]
-  home = ["HTML", "ATOM"]
-  page = ["HTML"]
-  section = ["HTML"]
-  taxonomy = ["HTML"]
-  term = ["HTML", "ATOM"]
-
+## Site Settings
 [params]
-  subtitle = "Michel Aquino"
-  description = "This is my personal blog about tech."
-  keywords = []
-  images = []
-  logo = "logo-green.svg"
+    author = "Michel Aquino"
+    title = "Michel Aquino"
+    description = "Michel Aquino"
+    authorimage = "/img/logo-gray.png"
+    dateformat = "Jan 2, 2006"
+
+    # sidebar, copyright & license
+    #logoimage = "/img/logo-green.png"
+    copyright = "michelaquino"
+    since = 2021
+    #license = "CC BY-SA 4.0"
+    #licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+    #showBuiltWith = true
+
+    # https://highlightjs.org
+    highlightjs = true
+    highlightjsstyle = "github"
+    
+    # please choose either GraphComment or Disqus or Utterances
+    #GraphCommentId = "..."
+    #UtterancesRepo = "..." # https://utteranc.es/
+    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
+    #UtterancesTheme = "..." # github-light or github-dark
+
+    # Table of contents
+    #toc = none, "hugo", or "tocbot"
+
+## Social Accounts
+[params.social]
+    linkedin = "michel-aquino-415a4424"
+    github = "michelaquino"
+    gitlab = "michelaquino"
+    #twitter = "<username>"
+    #stackoverflow = "<username>"
+    keybase = "michelaquino"
+    email = "michelaquino @ mailbox.org"
+    rss = ""
+
+## Main Menu
+[[menu.main]]
+    name = "Home"
+    weight = 100
+    identifier = "home"
+    url = "/"
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/post/"
+[[menu.main]]
+    name = "Tags"
+    weight = 100
+    identifier = "tags"
+    url = "/tags/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 300
+    url = "/about/"

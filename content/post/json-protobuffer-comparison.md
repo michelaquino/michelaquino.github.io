@@ -4,7 +4,7 @@ date: 2020-06-05T12:00:00-03:00
 tags:
   - Protocol Buffer
   - JSON
-weight: 1
+
 ---
 
 Atualmente o formato [JSON](https://en.wikipedia.org/wiki/JSON) é um dos formatos mais usados para serialização/deserialização de dados por ter suporte nativo na maioria dos navegadores, ser muito conhecido e ter uma grande variedade de bibliotecas nas mais diversas linguagens. Além disso, por ser em formato texto é legível para humanos. 
