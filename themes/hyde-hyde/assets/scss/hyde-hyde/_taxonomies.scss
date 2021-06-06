@@ -14,9 +14,9 @@ a.badge-category {
 .badge-tag,
 a.badge-tag {
   color: #fff !important;
-  background-color: #7766cc;
+  background-color: $gray-9; // [Michel] Customizado
   &:hover, &:focus {
-    color: #7766cc !important;
+    color: $gray-9 !important; // [Michel] Customizado
     background: transparent;
     background-color: transparent;
     text-decoration: none;
